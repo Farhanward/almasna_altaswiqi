@@ -1,0 +1,27 @@
+{
+  "input": "C:\\Projects\\almasna_altaswiqi\\data\\benchmarks\\almasna_tweet_eval_marketing.jsonl",
+  "records": 12000,
+  "repeat": 3,
+  "processed": 36000,
+  "complete": 36000,
+  "errors": 0,
+  "quality_mean": 98.14875,
+  "channels": {
+    "social": 23985,
+    "blog": 12015
+  },
+  "latency_ms": {
+    "mean": 0.08465608894120022,
+    "p99": 0.1621000119484961,
+    "max": 1.6007999947760254
+  },
+  "memory_mb": {
+    "current": 2.400277,
+    "peak": 2.403062
+  },
+  "elapsed_seconds": 3.1771703000122216,
+  "collapse_check": {
+    "passed": true,
+    "criteria": "errors == 0"
+  }
+}
